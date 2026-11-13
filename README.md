@@ -14,7 +14,7 @@
 
 ## 🦸‍♀️ Professional Summary
 
-Detail-oriented **Cyber Security Analyst** with hands-on SOC experience in high-volume alert triage, end-to-end incident investigation, digital forensics, and vulnerability assessment. Proven track record analyzing daily SIEM and EDR alerts, validating true positives, and mapping adversary behaviors to the **MITRE ATT&CK** framework. Passionate about driving proactive defense, threat hunting, and detection engineering in fast-paced environments.
+Detail-oriented **Cyber Security Analyst** with hands-on SOC experience in high-volume alert triage, end-to-end incident investigation, digital forensics, and vulnerability assessment. Proven track record analyzing daily SIEM and EDR alerts, validating true positives, and mapping adversary behaviors to the **MITRE ATT&CK** framework. Passionate about driving proactive defense, threat hunting, digital forensics, and SOC operations in fast-paced environments.
 
 🌍 **Open to Relocation** | 🕒 **Available for 24/7 Rotational Shifts** | 💻 **Ready to Freelance** 
 
@@ -23,7 +23,6 @@ Detail-oriented **Cyber Security Analyst** with hands-on SOC experience in high-
 ## 🛠️ Technical Skills & Tools
 
 ### 🛡️ Security Operations & Monitoring (SIEM / EDR / SOAR)
-
 **SIEM & SOAR**  
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel%20-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Splunk SOAR](https://img.shields.io/badge/Splunk%20SOAR-000000?style=flat-square&logo=splunk&logoColor=white)
@@ -135,21 +134,6 @@ Detail-oriented **Cyber Security Analyst** with hands-on SOC experience in high-
 
 ---
 
-## 🎓 Higher Education
-
-* **Diploma in Cybersecurity (Qualifi Level 5)** — *WinSYS City Campus*
-* **B.Sc. in Business Information Systems (Special)** — *University of Sri Jayewardenepura*
-
----
-
-## 📂 Featured Walkthroughs & Incident Reports
-
-| Lab / Scenario | Focus Area | Key Tools Used | Description & Output |
-| :--- | :--- | :--- | :--- |
-| **HTB Sherlock: TaskForce** | Threat Hunting & Intrusion Investigation | Elastic SIEM, KQL, MITRE ATT&CK | Uncovered unauthorized RDP intrusion, internal reconnaissance, and stealthy typosquatted scheduled task executing with SYSTEM privileges on a SQL server. |
-| **HTB Sherlock: PhishNet** | Business Email Compromise (BEC) Triage | PhishTool, VirusTotal, AlienVault OTX | Investigated a finance-targeted BEC attack bypassing standard email gateways; analyzed email headers, malicious URLs, and masqueraded payloads. |
-
----
 <div align="center">
   <i>⭐ Feel free to reach out on LinkedIn or X for SOC L1/L2, Threat Detection, or Incident Response opportunities!</i>
 </div>
